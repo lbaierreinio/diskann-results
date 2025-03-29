@@ -1,7 +1,7 @@
 # DiskANN Results
 Visualizations from DiskANN workflows.
 
-## Structure:
+## Structure
 
 ```
 dataset-1 
