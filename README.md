@@ -1,2 +1,2 @@
-# diskann-results
+# DiskANN Results
 Visualizations from DiskANN workflows.
