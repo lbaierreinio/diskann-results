@@ -1,0 +1,526 @@
+initial_build_time: 13.327
+iteration: 1
+num_out_edges: 6344448
+mean_out_edges: 63.4438
+variance_out_edges: 8.45244
+max_observed_degree: 64
+num_nodes: 100001
+deletion_time: 2.19301
+num_deleted: 3000
+insertion_time: 0.481065
+num_inserted: 3000
+num_out_edges: 6550077
+mean_out_edges: 65.5001
+variance_out_edges: 9.27177
+max_observed_degree: 78
+num_nodes: 100001
+L = 20 Mean Latency: 1023.9
+L = 20 Tail Latency: 48665.8
+L = 20 Recall@10: 98.111
+L = 20 QPS: 47280.2
+L = 40 Mean Latency: 1624.41
+L = 40 Tail Latency: 48607.4
+L = 40 Recall@10: 99.573
+L = 40 QPS: 35412.6
+L = 60 Mean Latency: 2168.92
+L = 60 Tail Latency: 64261.5
+L = 60 Recall@10: 99.852
+L = 60 QPS: 26922.5
+L = 80 Mean Latency: 2662.3
+L = 80 Tail Latency: 60911.5
+L = 80 Recall@10: 99.938
+L = 80 QPS: 22638.7
+L = 100 Mean Latency: 3113.82
+L = 100 Tail Latency: 56242.7
+L = 100 Recall@10: 99.97
+L = 100 QPS: 19236.2
+iteration: 2
+num_out_edges: 6550077
+mean_out_edges: 65.5001
+variance_out_edges: 9.27177
+max_observed_degree: 78
+num_nodes: 100001
+deletion_time: 2.28342
+num_deleted: 3000
+insertion_time: 0.457606
+num_inserted: 3000
+num_out_edges: 6556117
+mean_out_edges: 65.5605
+variance_out_edges: 8.32128
+max_observed_degree: 83
+num_nodes: 100001
+L = 20 Mean Latency: 1047.39
+L = 20 Tail Latency: 44292.7
+L = 20 Recall@10: 98.159
+L = 20 QPS: 52625.1
+L = 40 Mean Latency: 1625.2
+L = 40 Tail Latency: 48632.3
+L = 40 Recall@10: 99.582
+L = 40 QPS: 35169.4
+L = 60 Mean Latency: 2172.14
+L = 60 Tail Latency: 48689.7
+L = 60 Recall@10: 99.853
+L = 60 QPS: 26769.2
+L = 80 Mean Latency: 2676.64
+L = 80 Tail Latency: 54480.6
+L = 80 Recall@10: 99.933
+L = 80 QPS: 22421.5
+L = 100 Mean Latency: 3098.22
+L = 100 Tail Latency: 53084.4
+L = 100 Recall@10: 99.967
+L = 100 QPS: 19466.3
+iteration: 3
+num_out_edges: 6556117
+mean_out_edges: 65.5605
+variance_out_edges: 8.32128
+max_observed_degree: 83
+num_nodes: 100001
+deletion_time: 2.25456
+num_deleted: 3000
+insertion_time: 0.466926
+num_inserted: 3000
+num_out_edges: 6556313
+mean_out_edges: 65.5625
+variance_out_edges: 8.26126
+max_observed_degree: 78
+num_nodes: 100001
+L = 20 Mean Latency: 1036.66
+L = 20 Tail Latency: 47756.2
+L = 20 Recall@10: 98.14
+L = 20 QPS: 53219.1
+L = 40 Mean Latency: 1620.12
+L = 40 Tail Latency: 49800
+L = 40 Recall@10: 99.58
+L = 40 QPS: 35867.5
+L = 60 Mean Latency: 2277.27
+L = 60 Tail Latency: 56411.2
+L = 60 Recall@10: 99.852
+L = 60 QPS: 25037.1
+L = 80 Mean Latency: 2689.64
+L = 80 Tail Latency: 48824.5
+L = 80 Recall@10: 99.934
+L = 80 QPS: 22158.2
+L = 100 Mean Latency: 3124.88
+L = 100 Tail Latency: 53654.4
+L = 100 Recall@10: 99.967
+L = 100 QPS: 19591.3
+iteration: 4
+num_out_edges: 6556313
+mean_out_edges: 65.5625
+variance_out_edges: 8.26126
+max_observed_degree: 78
+num_nodes: 100001
+deletion_time: 2.20693
+num_deleted: 3000
+insertion_time: 0.439325
+num_inserted: 3000
+num_out_edges: 6556338
+mean_out_edges: 65.5627
+variance_out_edges: 8.25477
+max_observed_degree: 78
+num_nodes: 100001
+L = 20 Mean Latency: 1021.2
+L = 20 Tail Latency: 68170.2
+L = 20 Recall@10: 98.127
+L = 20 QPS: 38853
+L = 40 Mean Latency: 1625.26
+L = 40 Tail Latency: 44569.9
+L = 40 Recall@10: 99.584
+L = 40 QPS: 34619.6
+L = 60 Mean Latency: 2174.39
+L = 60 Tail Latency: 78668.2
+L = 60 Recall@10: 99.858
+L = 60 QPS: 26515.1
+L = 80 Mean Latency: 2686.31
+L = 80 Tail Latency: 56476.9
+L = 80 Recall@10: 99.938
+L = 80 QPS: 22399.2
+L = 100 Mean Latency: 3126.87
+L = 100 Tail Latency: 52806.4
+L = 100 Recall@10: 99.967
+L = 100 QPS: 19128.9
+iteration: 5
+num_out_edges: 6556338
+mean_out_edges: 65.5627
+variance_out_edges: 8.25477
+max_observed_degree: 78
+num_nodes: 100001
+deletion_time: 2.24409
+num_deleted: 3000
+insertion_time: 0.472985
+num_inserted: 3000
+num_out_edges: 6556372
+mean_out_edges: 65.5631
+variance_out_edges: 8.2525
+max_observed_degree: 83
+num_nodes: 100001
+L = 20 Mean Latency: 1002.33
+L = 20 Tail Latency: 77416
+L = 20 Recall@10: 98.137
+L = 20 QPS: 49387.4
+L = 40 Mean Latency: 1640.98
+L = 40 Tail Latency: 48355.5
+L = 40 Recall@10: 99.588
+L = 40 QPS: 34750.6
+L = 60 Mean Latency: 2177.82
+L = 60 Tail Latency: 50720.3
+L = 60 Recall@10: 99.857
+L = 60 QPS: 26936.1
+L = 80 Mean Latency: 2667.98
+L = 80 Tail Latency: 48614.4
+L = 80 Recall@10: 99.938
+L = 80 QPS: 22660.3
+L = 100 Mean Latency: 3120.87
+L = 100 Tail Latency: 64658.3
+L = 100 Recall@10: 99.967
+L = 100 QPS: 19132.4
+iteration: 6
+num_out_edges: 6556372
+mean_out_edges: 65.5631
+variance_out_edges: 8.2525
+max_observed_degree: 83
+num_nodes: 100001
+deletion_time: 2.23245
+num_deleted: 3000
+insertion_time: 0.434651
+num_inserted: 3000
+num_out_edges: 6556354
+mean_out_edges: 65.5629
+variance_out_edges: 8.25933
+max_observed_degree: 83
+num_nodes: 100001
+L = 20 Mean Latency: 1039.2
+L = 20 Tail Latency: 44714.2
+L = 20 Recall@10: 98.149
+L = 20 QPS: 45974.8
+L = 40 Mean Latency: 1617.59
+L = 40 Tail Latency: 81143.8
+L = 40 Recall@10: 99.59
+L = 40 QPS: 36315.5
+L = 60 Mean Latency: 2169.9
+L = 60 Tail Latency: 48573.4
+L = 60 Recall@10: 99.858
+L = 60 QPS: 26367
+L = 80 Mean Latency: 2677.87
+L = 80 Tail Latency: 50846.5
+L = 80 Recall@10: 99.936
+L = 80 QPS: 22711.4
+L = 100 Mean Latency: 3147.58
+L = 100 Tail Latency: 56887.1
+L = 100 Recall@10: 99.967
+L = 100 QPS: 18862
+iteration: 7
+num_out_edges: 6556354
+mean_out_edges: 65.5629
+variance_out_edges: 8.25933
+max_observed_degree: 83
+num_nodes: 100001
+deletion_time: 2.23654
+num_deleted: 3000
+insertion_time: 0.459215
+num_inserted: 3000
+num_out_edges: 6556367
+mean_out_edges: 65.563
+variance_out_edges: 8.25359
+max_observed_degree: 82
+num_nodes: 100001
+L = 20 Mean Latency: 1028.71
+L = 20 Tail Latency: 49356.6
+L = 20 Recall@10: 98.139
+L = 20 QPS: 51167.2
+L = 40 Mean Latency: 1637.31
+L = 40 Tail Latency: 48510.2
+L = 40 Recall@10: 99.59
+L = 40 QPS: 35100.2
+L = 60 Mean Latency: 2185.78
+L = 60 Tail Latency: 50109.2
+L = 60 Recall@10: 99.859
+L = 60 QPS: 27069.9
+L = 80 Mean Latency: 2671.9
+L = 80 Tail Latency: 56781.2
+L = 80 Recall@10: 99.938
+L = 80 QPS: 21633.1
+L = 100 Mean Latency: 3101.77
+L = 100 Tail Latency: 52805.9
+L = 100 Recall@10: 99.967
+L = 100 QPS: 19485.9
+iteration: 8
+num_out_edges: 6556367
+mean_out_edges: 65.563
+variance_out_edges: 8.25359
+max_observed_degree: 82
+num_nodes: 100001
+deletion_time: 2.24576
+num_deleted: 3000
+insertion_time: 0.441265
+num_inserted: 3000
+num_out_edges: 6556388
+mean_out_edges: 65.5632
+variance_out_edges: 8.25956
+max_observed_degree: 83
+num_nodes: 100001
+L = 20 Mean Latency: 1005.09
+L = 20 Tail Latency: 79786.4
+L = 20 Recall@10: 98.147
+L = 20 QPS: 52943.1
+L = 40 Mean Latency: 1625.58
+L = 40 Tail Latency: 48494.9
+L = 40 Recall@10: 99.591
+L = 40 QPS: 35162.9
+L = 60 Mean Latency: 2197.58
+L = 60 Tail Latency: 56700.5
+L = 60 Recall@10: 99.856
+L = 60 QPS: 24504
+L = 80 Mean Latency: 2686.26
+L = 80 Tail Latency: 52932.9
+L = 80 Recall@10: 99.933
+L = 80 QPS: 21675.1
+L = 100 Mean Latency: 3107.66
+L = 100 Tail Latency: 67769.2
+L = 100 Recall@10: 99.967
+L = 100 QPS: 18418.3
+iteration: 9
+num_out_edges: 6556388
+mean_out_edges: 65.5632
+variance_out_edges: 8.25956
+max_observed_degree: 83
+num_nodes: 100001
+deletion_time: 2.30845
+num_deleted: 3000
+insertion_time: 0.470018
+num_inserted: 3000
+num_out_edges: 6556395
+mean_out_edges: 65.5633
+variance_out_edges: 8.25219
+max_observed_degree: 81
+num_nodes: 100001
+L = 20 Mean Latency: 1035.64
+L = 20 Tail Latency: 46370.9
+L = 20 Recall@10: 98.145
+L = 20 QPS: 53130.9
+L = 40 Mean Latency: 1620.11
+L = 40 Tail Latency: 48654.8
+L = 40 Recall@10: 99.584
+L = 40 QPS: 35809.4
+L = 60 Mean Latency: 2187.68
+L = 60 Tail Latency: 48557.7
+L = 60 Recall@10: 99.853
+L = 60 QPS: 27270
+L = 80 Mean Latency: 2673.96
+L = 80 Tail Latency: 48896.7
+L = 80 Recall@10: 99.934
+L = 80 QPS: 22356.2
+L = 100 Mean Latency: 3105.11
+L = 100 Tail Latency: 64540.6
+L = 100 Recall@10: 99.967
+L = 100 QPS: 18960.8
+iteration: 10
+num_out_edges: 6556395
+mean_out_edges: 65.5633
+variance_out_edges: 8.25219
+max_observed_degree: 81
+num_nodes: 100001
+deletion_time: 2.26316
+num_deleted: 3000
+insertion_time: 0.445616
+num_inserted: 3000
+num_out_edges: 6556422
+mean_out_edges: 65.5636
+variance_out_edges: 8.24204
+max_observed_degree: 82
+num_nodes: 100001
+L = 20 Mean Latency: 1047.53
+L = 20 Tail Latency: 59488.2
+L = 20 Recall@10: 98.142
+L = 20 QPS: 53594.9
+L = 40 Mean Latency: 1636.62
+L = 40 Tail Latency: 52317.6
+L = 40 Recall@10: 99.581
+L = 40 QPS: 34532.9
+L = 60 Mean Latency: 2170.93
+L = 60 Tail Latency: 48743.6
+L = 60 Recall@10: 99.851
+L = 60 QPS: 27204.2
+L = 80 Mean Latency: 2674.25
+L = 80 Tail Latency: 48311.8
+L = 80 Recall@10: 99.933
+L = 80 QPS: 22033.7
+L = 100 Mean Latency: 3125.56
+L = 100 Tail Latency: 52884.8
+L = 100 Recall@10: 99.967
+L = 100 QPS: 18204.8
+iteration: 11
+num_out_edges: 6556422
+mean_out_edges: 65.5636
+variance_out_edges: 8.24204
+max_observed_degree: 82
+num_nodes: 100001
+deletion_time: 2.24507
+num_deleted: 3000
+insertion_time: 0.480694
+num_inserted: 3000
+num_out_edges: 6556402
+mean_out_edges: 65.5634
+variance_out_edges: 8.24602
+max_observed_degree: 78
+num_nodes: 100001
+L = 20 Mean Latency: 1017.36
+L = 20 Tail Latency: 48761.1
+L = 20 Recall@10: 98.147
+L = 20 QPS: 48875
+L = 40 Mean Latency: 1614.03
+L = 40 Tail Latency: 44486
+L = 40 Recall@10: 99.59
+L = 40 QPS: 35201.4
+L = 60 Mean Latency: 2183.32
+L = 60 Tail Latency: 52762.7
+L = 60 Recall@10: 99.852
+L = 60 QPS: 26781.4
+L = 80 Mean Latency: 2684.72
+L = 80 Tail Latency: 60712.9
+L = 80 Recall@10: 99.934
+L = 80 QPS: 22296.5
+L = 100 Mean Latency: 3119.44
+L = 100 Tail Latency: 56622.3
+L = 100 Recall@10: 99.967
+L = 100 QPS: 19104.5
+iteration: 12
+num_out_edges: 6556402
+mean_out_edges: 65.5634
+variance_out_edges: 8.24602
+max_observed_degree: 78
+num_nodes: 100001
+deletion_time: 2.23664
+num_deleted: 3000
+insertion_time: 0.443223
+num_inserted: 3000
+num_out_edges: 6556405
+mean_out_edges: 65.5634
+variance_out_edges: 8.24852
+max_observed_degree: 82
+num_nodes: 100001
+L = 20 Mean Latency: 1035.62
+L = 20 Tail Latency: 46610.5
+L = 20 Recall@10: 98.129
+L = 20 QPS: 47606.5
+L = 40 Mean Latency: 1618.97
+L = 40 Tail Latency: 44534.9
+L = 40 Recall@10: 99.584
+L = 40 QPS: 35142.3
+L = 60 Mean Latency: 2171.52
+L = 60 Tail Latency: 52308.7
+L = 60 Recall@10: 99.853
+L = 60 QPS: 25605.2
+L = 80 Mean Latency: 2684.5
+L = 80 Tail Latency: 48940.2
+L = 80 Recall@10: 99.934
+L = 80 QPS: 22052.1
+L = 100 Mean Latency: 3117.21
+L = 100 Tail Latency: 56744.9
+L = 100 Recall@10: 99.967
+L = 100 QPS: 18959.8
+iteration: 13
+num_out_edges: 6556405
+mean_out_edges: 65.5634
+variance_out_edges: 8.24852
+max_observed_degree: 82
+num_nodes: 100001
+deletion_time: 2.18917
+num_deleted: 3000
+insertion_time: 0.435691
+num_inserted: 3000
+num_out_edges: 6556406
+mean_out_edges: 65.5634
+variance_out_edges: 8.24348
+max_observed_degree: 81
+num_nodes: 100001
+L = 20 Mean Latency: 1015.6
+L = 20 Tail Latency: 47331.7
+L = 20 Recall@10: 98.136
+L = 20 QPS: 49582.1
+L = 40 Mean Latency: 1624.59
+L = 40 Tail Latency: 52181.1
+L = 40 Recall@10: 99.59
+L = 40 QPS: 35361.7
+L = 60 Mean Latency: 2209.27
+L = 60 Tail Latency: 48570.7
+L = 60 Recall@10: 99.858
+L = 60 QPS: 25597.9
+L = 80 Mean Latency: 2663.5
+L = 80 Tail Latency: 87944.6
+L = 80 Recall@10: 99.938
+L = 80 QPS: 21805.2
+L = 100 Mean Latency: 3119.65
+L = 100 Tail Latency: 56809.6
+L = 100 Recall@10: 99.967
+L = 100 QPS: 19329.8
+iteration: 14
+num_out_edges: 6556406
+mean_out_edges: 65.5634
+variance_out_edges: 8.24348
+max_observed_degree: 81
+num_nodes: 100001
+deletion_time: 2.27219
+num_deleted: 3000
+insertion_time: 0.444694
+num_inserted: 3000
+num_out_edges: 6556429
+mean_out_edges: 65.5636
+variance_out_edges: 8.24055
+max_observed_degree: 83
+num_nodes: 100001
+L = 20 Mean Latency: 1010.61
+L = 20 Tail Latency: 44356.8
+L = 20 Recall@10: 98.133
+L = 20 QPS: 52832.2
+L = 40 Mean Latency: 1615.34
+L = 40 Tail Latency: 52368.3
+L = 40 Recall@10: 99.588
+L = 40 QPS: 35697.1
+L = 60 Mean Latency: 2159.68
+L = 60 Tail Latency: 56873.4
+L = 60 Recall@10: 99.855
+L = 60 QPS: 26426.6
+L = 80 Mean Latency: 2659.7
+L = 80 Tail Latency: 53489.2
+L = 80 Recall@10: 99.939
+L = 80 QPS: 22410.7
+L = 100 Mean Latency: 3113.23
+L = 100 Tail Latency: 55220.1
+L = 100 Recall@10: 99.967
+L = 100 QPS: 19620.6
+iteration: 15
+num_out_edges: 6556429
+mean_out_edges: 65.5636
+variance_out_edges: 8.24055
+max_observed_degree: 83
+num_nodes: 100001
+deletion_time: 2.23878
+num_deleted: 3000
+insertion_time: 0.440295
+num_inserted: 3000
+num_out_edges: 6556461
+mean_out_edges: 65.564
+variance_out_edges: 8.23923
+max_observed_degree: 83
+num_nodes: 100001
+L = 20 Mean Latency: 1033.11
+L = 20 Tail Latency: 40299
+L = 20 Recall@10: 98.127
+L = 20 QPS: 51238.8
+L = 40 Mean Latency: 1616.04
+L = 40 Tail Latency: 48458.7
+L = 40 Recall@10: 99.585
+L = 40 QPS: 35647.7
+L = 60 Mean Latency: 2167.62
+L = 60 Tail Latency: 52263.2
+L = 60 Recall@10: 99.855
+L = 60 QPS: 27454
+L = 80 Mean Latency: 2669.93
+L = 80 Tail Latency: 52990.7
+L = 80 Recall@10: 99.939
+L = 80 QPS: 21895.3
+L = 100 Mean Latency: 3122.68
+L = 100 Tail Latency: 60616.2
+L = 100 Recall@10: 99.967
+L = 100 QPS: 19336.7
