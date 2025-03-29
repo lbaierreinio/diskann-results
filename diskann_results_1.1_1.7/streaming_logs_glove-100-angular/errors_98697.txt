@@ -1,0 +1,488 @@
+Warning! Calling compact_data() when _data_compacted is true!
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#30182
+ERROR: Point found with no out-neighbours, point#30182
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#30182
+ERROR: Point found with no out-neighbours, point#30182
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#46355
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#46355
+ERROR: Point found with no out-neighbours, point#60335
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#60335
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#50533
+ERROR: Point found with no out-neighbours, point#53896
+ERROR: Point found with no out-neighbours, point#55363
+ERROR: Point found with no out-neighbours, point#59934
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#50533
+ERROR: Point found with no out-neighbours, point#53896
+ERROR: Point found with no out-neighbours, point#55363
+ERROR: Point found with no out-neighbours, point#59934
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84779
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#6445
+ERROR: Point found with no out-neighbours, point#9473
+ERROR: Point found with no out-neighbours, point#10891
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#13284
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#55363
+ERROR: Point found with no out-neighbours, point#59934
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#6445
+ERROR: Point found with no out-neighbours, point#9473
+ERROR: Point found with no out-neighbours, point#10891
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#13284
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#55363
+ERROR: Point found with no out-neighbours, point#59934
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89918
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#10771
+ERROR: Point found with no out-neighbours, point#10891
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#13284
+ERROR: Point found with no out-neighbours, point#14861
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#55363
+ERROR: Point found with no out-neighbours, point#59934
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#10771
+ERROR: Point found with no out-neighbours, point#10891
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#13284
+ERROR: Point found with no out-neighbours, point#14861
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#55363
+ERROR: Point found with no out-neighbours, point#59934
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89918
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#10771
+ERROR: Point found with no out-neighbours, point#10891
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#13284
+ERROR: Point found with no out-neighbours, point#14861
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#17895
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#69914
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#10771
+ERROR: Point found with no out-neighbours, point#10891
+ERROR: Point found with no out-neighbours, point#13218
+ERROR: Point found with no out-neighbours, point#13284
+ERROR: Point found with no out-neighbours, point#14861
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#17895
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#69914
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#16753
+ERROR: Point found with no out-neighbours, point#17895
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#63894
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#69914
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91936
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#16753
+ERROR: Point found with no out-neighbours, point#17895
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#60335
+ERROR: Point found with no out-neighbours, point#63894
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#69914
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91936
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#16753
+ERROR: Point found with no out-neighbours, point#17895
+ERROR: Point found with no out-neighbours, point#19869
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#59845
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#69644
+ERROR: Point found with no out-neighbours, point#69914
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91437
+ERROR: Point found with no out-neighbours, point#91936
+ERROR: Point found with no out-neighbours, point#16656
+ERROR: Point found with no out-neighbours, point#16753
+ERROR: Point found with no out-neighbours, point#17895
+ERROR: Point found with no out-neighbours, point#19869
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#59845
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#69644
+ERROR: Point found with no out-neighbours, point#69914
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91437
+ERROR: Point found with no out-neighbours, point#91936
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#29013
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#59845
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#67253
+ERROR: Point found with no out-neighbours, point#69644
+ERROR: Point found with no out-neighbours, point#69914
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91437
+ERROR: Point found with no out-neighbours, point#91936
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#29013
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#59845
+ERROR: Point found with no out-neighbours, point#65667
+ERROR: Point found with no out-neighbours, point#67253
+ERROR: Point found with no out-neighbours, point#69644
+ERROR: Point found with no out-neighbours, point#69914
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91437
+ERROR: Point found with no out-neighbours, point#91936
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#29013
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#59845
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91437
+ERROR: Point found with no out-neighbours, point#91936
+ERROR: Point found with no out-neighbours, point#23817
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#29013
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#59845
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91437
+ERROR: Point found with no out-neighbours, point#91936
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#29013
+ERROR: Point found with no out-neighbours, point#34395
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#59845
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91437
+ERROR: Point found with no out-neighbours, point#91936
+ERROR: Point found with no out-neighbours, point#99425
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#29013
+ERROR: Point found with no out-neighbours, point#34395
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#59845
+ERROR: Point found with no out-neighbours, point#72814
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91437
+ERROR: Point found with no out-neighbours, point#91936
+ERROR: Point found with no out-neighbours, point#99425
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#29013
+ERROR: Point found with no out-neighbours, point#34395
+ERROR: Point found with no out-neighbours, point#43116
+ERROR: Point found with no out-neighbours, point#45921
+ERROR: Point found with no out-neighbours, point#59845
+ERROR: Point found with no out-neighbours, point#84418
+ERROR: Point found with no out-neighbours, point#84779
+ERROR: Point found with no out-neighbours, point#88742
+ERROR: Point found with no out-neighbours, point#89578
+ERROR: Point found with no out-neighbours, point#89918
+ERROR: Point found with no out-neighbours, point#91437
+ERROR: Point found with no out-neighbours, point#91936
+ERROR: Point found with no out-neighbours, point#99425
+Warning! Calling compact_data() when _data_compacted is true!
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+Warning! Calling compact_data() when _data_compacted is true!
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#65993
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+Warning! Calling compact_data() when _data_compacted is true!
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+ERROR: Point found with no out-neighbours, point#25557
+#dangling references after data compaction: 0
+ERROR: Point found with no out-neighbours, point#25557
+Warning! Calling compact_data() when _data_compacted is true!
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
+#dangling references after data compaction: 0
